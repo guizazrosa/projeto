@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class log {
+public class login {
     public static void main(String[] args) {
         Scanner Scanner = new Scanner(System.in);
 
