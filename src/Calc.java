@@ -29,6 +29,7 @@ public class Calc {
         scanner.close();
     }
 
+//Fazendo o menu
 
     public static void menu() {
         System.out.println("\n....I Suas opções I....");
@@ -73,10 +74,7 @@ public class Calc {
 
 //Fazendo as operações
 
-    public static int somar(int numero1, int numero2) {
-        return numero1 + numero2;
-
-    }
+    public static int somar(int numero1, int numero2) { return numero1 + numero2; }
 
     public static int subtracao(int numero1, int numero2) {
         return numero1 - numero2;
